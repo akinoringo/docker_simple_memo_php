@@ -50,6 +50,11 @@
       $statement->bindParam(':email', htmlspecialchars($user_email));
       $statement->bindParam(':password', htmlspecialchars($password));
       $statement->execute();
+
+      $_SESSION['user'] = [
+        'name' => $name,
+        'id' => $id
+      ];
     }
 
   } catch (Throwable $e) {
