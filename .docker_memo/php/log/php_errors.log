@@ -10,3 +10,4 @@
 [02-Jul-2022 14:13:34 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 49
 [02-Jul-2022 14:13:34 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 50
 [02-Jul-2022 14:13:34 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 51
+[02-Jul-2022 17:16:13 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in /var/www/html/common/auth.php on line 3
