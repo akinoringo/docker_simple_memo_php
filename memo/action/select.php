@@ -3,7 +3,7 @@
   require '../../common/database.php';
 
   if (!isLogin()) {
-    header('location:../login');
+    header('Location:../login');
     exit;
   }
 
@@ -24,5 +24,5 @@
     'content' => $result['content'],
   ];
 
-  header('location:../../memo/');
+  header('Location:../../memo/');
   exit;
