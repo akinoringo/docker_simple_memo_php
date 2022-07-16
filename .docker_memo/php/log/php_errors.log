@@ -47,3 +47,103 @@
 [16-Jul-2022 09:03:54 Asia/Tokyo] PHP Notice:  Undefined index: updated_at in /var/www/html/memo/index.php on line 72
 [16-Jul-2022 09:03:54 Asia/Tokyo] PHP Notice:  Undefined index: updated_at in /var/www/html/memo/index.php on line 72
 [16-Jul-2022 09:03:54 Asia/Tokyo] PHP Notice:  Undefined index: updated_at in /var/www/html/memo/index.php on line 72
+[16-Jul-2022 09:50:20 Asia/Tokyo] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/memo/index.php on line 107
+[16-Jul-2022 09:50:20 Asia/Tokyo] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/memo/index.php on line 107
+[16-Jul-2022 09:52:14 Asia/Tokyo] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/memo/index.php on line 101
+[16-Jul-2022 09:52:14 Asia/Tokyo] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/memo/index.php on line 101
+[16-Jul-2022 09:56:51 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:56:51 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:56:51 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:56:51 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:56:51 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:56:51 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:56:54 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:56:54 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:56:54 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:56:54 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:56:54 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:56:54 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:57:53 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:57:53 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:57:53 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:57:53 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:57:53 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:57:53 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:57:55 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:57:55 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:57:55 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:57:55 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:57:55 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:57:55 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:57:57 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:57:57 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:57:57 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:57:57 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:57:57 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:57:57 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:57:59 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:57:59 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:57:59 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:57:59 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:57:59 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:57:59 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:58:02 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:58:02 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:58:02 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:58:02 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:58:02 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:58:02 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:58:02 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:58:02 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:58:02 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:58:02 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:58:02 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:58:02 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:58:47 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:58:47 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:58:47 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:58:47 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:58:47 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:58:47 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:58:49 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:58:49 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 09:58:49 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:58:49 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 09:58:49 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 09:58:49 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 10:00:33 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 10:00:33 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 10:00:33 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 10:00:33 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 10:00:33 Asia/Tokyo] PHP Notice:  Undefined variable: memo in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 10:00:33 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 10:01:44 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 10:01:44 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 10:01:44 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 10:01:47 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 10:01:47 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 10:01:47 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 10:02:01 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 10:02:01 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 10:02:01 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 10:02:05 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 10:02:05 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 10:02:05 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 10:02:06 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 10:02:06 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 10:02:06 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 10:02:31 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 10:02:31 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 10:02:31 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 10:03:07 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 10:03:07 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 10:03:07 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 10:03:21 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 10:03:21 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 10:03:21 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 10:03:29 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 10:03:29 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 10:03:29 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[16-Jul-2022 10:03:31 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[16-Jul-2022 10:03:31 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[16-Jul-2022 10:03:31 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
