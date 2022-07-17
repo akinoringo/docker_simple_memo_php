@@ -3,7 +3,7 @@
   require '../../common/database.php';
 
   if (!isLogin()) {
-    header('Location:../../loign');
+    header('Location:../../login');
   }
 
   $edit_id = $_POST['edit_id'];
